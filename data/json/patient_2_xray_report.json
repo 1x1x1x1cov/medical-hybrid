@@ -1,0 +1,10 @@
+{
+  "patient_id": 2,
+  "patient_name": "Sarah Chen",
+  "test_type": "Chest X-Ray",
+  "test_date": "2025-10-10",
+  "findings": "No acute abnormality detected. Lungs clear.",
+  "radiologist": "Dr. Michael Chen",
+  "image_file": "patient_2_chest_xray.jpg",
+  "recommendations": "Routine follow-up"
+}

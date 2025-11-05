@@ -1,0 +1,22 @@
+Patient: James Wilson (ID: 1)
+Date: October 20, 2024
+Doctor: Dr. Emily Chen
+
+Chief Complaint:
+Patient presents with persistent headache for 3 days.
+
+Physical Examination:
+- Blood Pressure: 125/82 mmHg
+- Temperature: 98.6°F
+- Alert and oriented
+
+Assessment:
+Tension headache, likely stress-related.
+
+Plan:
+- Recommended stress management techniques
+- Follow-up in 2 weeks if symptoms persist
+- Blood test ordered (results attached)
+
+Dr. Emily Chen, MD
+Department of Neurology

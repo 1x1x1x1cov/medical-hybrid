@@ -1,0 +1,14 @@
+{
+  "patient_id": 1,
+  "patient_name": "James Wilson",
+  "test_type": "Complete Blood Count",
+  "test_date": "2025-10-10",
+  "results": {
+    "hemoglobin": 14.2,
+    "white_blood_cells": 6800,
+    "platelets": 245000000,
+    "red_blood_cells": 5.1
+  },
+  "status": "Normal",
+  "lab_technician": "Sarah Johnson"
+}

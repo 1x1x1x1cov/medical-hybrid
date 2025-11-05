@@ -1,0 +1,10 @@
+{
+  "department_id": 2,
+  "department_name": "Neurology",
+  "equipment_count": 12,
+  "annual_budget": 720000,
+  "patient_satisfaction": 4.5,
+  "bed_capacity": 25,
+  "utilization_rate": 82.3,
+  "last_updated": "2025-10-25"
+}

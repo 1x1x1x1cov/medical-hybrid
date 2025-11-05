@@ -1,0 +1,10 @@
+{
+  "department_id": 1,
+  "department_name": "Cardiology",
+  "equipment_count": 15,
+  "annual_budget": 850000,
+  "patient_satisfaction": 4.7,
+  "bed_capacity": 30,
+  "utilization_rate": 87.5,
+  "last_updated": "2025-10-25"
+}

@@ -1,0 +1,12 @@
+{
+    "patient_id": 1,
+    "test_type": "Complete Blood Count",
+    "test_date": "2025-10-28",
+    "results": {
+        "1": "22"
+    },
+    "status": "Normal",
+    "lab_technician": "Dave",
+    "created_by": "dr_emily_chen",
+    "created_at": "2025-10-28 09:50:55"
+}

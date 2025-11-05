@@ -1,0 +1,10 @@
+{
+  "department_id": 3,
+  "department_name": "Orthopedics",
+  "equipment_count": 18,
+  "annual_budget": 920000,
+  "patient_satisfaction": 4.8,
+  "bed_capacity": 35,
+  "utilization_rate": 91.2,
+  "last_updated": "2025-10-25"
+}
